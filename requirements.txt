@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+# optionnel (validation croisée des γ) :
+thermo
