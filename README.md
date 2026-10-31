@@ -11,7 +11,7 @@ de pureté.
 ## 1. Installation et utilisation
 
 ```bash
-git clone https://github.com/<ton-pseudo>/distillation-mesh.git
+git clone https://github.com/lynalazzouzi6-ux/distillation-mesh.git
 cd distillation-mesh
 python -m pip install -r requirements.txt   # numpy, scipy, matplotlib (+ thermo, optionnel)
 python tests.py                             # 23 tests automatiques
